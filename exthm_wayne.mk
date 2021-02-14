@@ -29,7 +29,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := wayne
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_MODEL := MI 6X
-PRODUCT_NAME := lineage_wayne
+PRODUCT_NAME := exthm_wayne
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 

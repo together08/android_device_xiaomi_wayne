@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_wayne.mk
+    $(LOCAL_DIR)/exthm_wayne.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_wayne-user \
-    lineage_wayne-userdebug \
-    lineage_wayne-eng
+    exthm_wayne-user \
+    exthm_wayne-userdebug \
+    exthm_wayne-eng
